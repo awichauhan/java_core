@@ -10,5 +10,13 @@ public class packagesConcept{
     }
 }
 
-
 // because I imported veryAdvCalc from tools packages; I had to import both parent classes (AdvCalc & Calc)
+
+/*
+to access methpds and variables outside packages, they should be public
+ideally methods should be declared as public
+
+private entity can be used within same class
+
+pu
+ */
