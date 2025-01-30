@@ -10,6 +10,6 @@ Below is an index of all the Java files included in this repository. This list c
 
 | #  | File Name                  | Description (Optional) |
 |----|----------------------------|------------------------|
-| 1  | `basics.java`               | Very basics about JVM, JDK and JRE       |
+| 1  | [`basics.java`](basics.java)   | Very basics about JVM, JDK and JRE       |
 | 2  | `class_object.java`         | Class and object theory       |
 | 3  | `encapsulation.java`               | encapsulation concept   |
